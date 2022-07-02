@@ -4,6 +4,6 @@ I'm a Engineering design Student studying in Indian Institute of Technology -Mad
 -Interested in working in projects.<br/>
 -Currently learning more about Tensorflow,Keras.<br/>
 -<b>Programming Languages:</b> C++, C, Python, XML, HTML, MATLAB, R programming, SQL<br/>
--<b>Libraries:</b>  <b>Tensorflow&ast;</b> ,OpenCV, T-kinter, Scikit-learn, pandas, numpy, matplot.lib, openGL, pygame<br/>
+-<b>Libraries:</b>  <b>Tensorflow&ast;</b> ,OpenCV, T-kinter, Scikit-learn, pandas, numpy, matplot.lib, openGL, pygame,seaborn,keras<br/>
 
 *-ongoing
